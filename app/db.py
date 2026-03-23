@@ -2,7 +2,7 @@
 import sqlite3
 # 导入os模块，用于处理文件路径
 import os
-from typing import Optional, Dict, Any, List, Union
+from typing import Optional, Dict, Any, List
 
 # 定义数据库文件的绝对路径
 # __file__表示当前文件的路径，os.path.dirname获取所在目录

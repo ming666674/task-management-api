@@ -1,2 +1,4 @@
+# Flask 框架 - 用于创建Web应用
 Flask
+# Flask-CORS - 用于处理跨域请求
 Flask-CORS
